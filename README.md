@@ -6,10 +6,10 @@ Sou Diogo, desenvolver e entusiasta de novas tecnologias.
 ☕️ Tecnologias: Kotlin, JavaScript
 </p>
 <p align="left">
-🔧 Ferramentas: JetpackCompose, NodeJS
+🔧 Ferramentas: JetpackCompose
 </p>
 <p align="left">
-🔧 Meus contato s estão abaixo.
+🔧 Meus contatos estão abaixo.
 </p>
 
 <p align="left">
